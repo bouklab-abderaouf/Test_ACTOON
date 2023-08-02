@@ -1,0 +1,17 @@
+# ignore node_modules directory
+node_modules/
+
+# ignore all .log files
+*.log
+
+# ignore all .env files
+*.env
+
+# ignore dist folder for TypeScript projects
+dist/
+
+# Ignore cache files for TypeScript
+*.tsbuildinfo
+
+# Ignore npm debug logs
+npm-debug.log*
